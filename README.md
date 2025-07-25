@@ -23,3 +23,4 @@ SterlingSystems (partial, updated parts list at the time of the commit)
 Supplementary Electric Engines
 Engine Ignitor (WIP)
 ResearchBodies
+More Airplane Parts
