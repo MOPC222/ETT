@@ -24,6 +24,7 @@
 - ResearchBodies  
 - KerBalloons  
 - More Airplane Parts  
+- Kerbal Powers: Naval  
 ## Mod support rebalanced/updated:  
 - AirplanePlus  
 - SterlingSystems (partially, mainly heat management. Parts list at the time of the commit)  
