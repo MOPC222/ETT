@@ -10,30 +10,32 @@
 - Changed patching order: ETT doesn't apply as FINAL anymore, so other part patches with :LAST or :FINAL directive can be loaded on top of it.
 
 ## Mod support added:  
+- Inflatable PicoPort  
+- Interkosmos  
+- InternalRCS (partial, the mod is quite bloated so I only use like 3 parts from it)  
+- KerBalloons  
+- Kerbal Powers: Naval  
 - Kerbalism (only tested with KerbalismSimplex)  
+- More Airplane Parts  
+- MoreServos  
+- OpenCockpit  
+- Procedural Wings  
 - RealBattery (upgrades correctly assigned to Electrics branch)  
 - Engine Ignitor (upgrades assigned to correct places for stock parts, mods support WIP)  
-- Taerobee  
-- OpenCockpit  
-- MoreServos  
-- Interkosmos  
-- Inflatable PicoPort  
-- Supplementary Electric Engines  
-- InternalRCS (partial, the mod is quite bloated so I only use like 3 parts from it)  
-- TarsierSpaceTech  
 - ResearchBodies  
-- KerBalloons  
-- More Airplane Parts  
-- Kerbal Powers: Naval  
+- Supplementary Electric Engines  
+- Taerobee  
+- TarsierSpaceTech  
 ## Mod support rebalanced/updated:  
 - AirplanePlus  
-- SterlingSystems (partially, mainly heat management. Parts list at the time of the commit)  
+- SterlingSystems (partially, mainly heat management)  
 - Sounding Rockets  
+- Apoapsis Motors  
+- Periapsis Motors  
+- Smart Parts  
 ## Mod support by Probus, passed down from his original ETT release
 - AIES  
-- Airplane Plus  
 - Alcubierre Warp Drive  
-- Apoapsis Motors  
 - B9 Aerospace Procedural Wings Fork  
 - Bavarian Aerospace: Tubes  
 - Breaking Ground  
@@ -80,7 +82,6 @@
 - Near Future Spacecraft  
 - NovaPunch Rebalanced  
 - OctoSat Continued  
-- Periapsis Motors  
 - Photon Sailor  
 - PicoPort  
 - PicoPort Shielded  
@@ -105,12 +106,11 @@
 - SXT Continued  
 - ScanSat  
 - Simple Adjustable Fairings KW Rocketry Pack  
-- Smart Parts  
 - Space Dust  
 - SpaceY  
 - SpaceY Expanded  
 - SpaceY Heavy Lifters  
-- Sterling Mods (JadeOfMaar)  
+- Sterling Mods  
 - Stockalike Station Parts Expansion  
 - System Heat  
 - Universal Storage II Finalized  
