@@ -28,3 +28,91 @@
 ## Mod support rebalanced/updated:  
 - AirplanePlus  
 - SterlingSystems (partially, mainly heat management. Parts list at the time of the commit)  
+- Sounding Rockets  
+## Mod support by Probus, passed down from his original ETT release
+- AIES  
+- Airplane Plus  
+- Alcubierre Warp Drive  
+- Apoapsis Motors  
+- B9 Aerospace Procedural Wings Fork  
+- Bavarian Aerospace: Tubes  
+- Breaking Ground  
+- CactEye-2  
+- Comfortable Landing  
+- Configurable Containers  
+- DMagic Orbital Science  
+- Dr. Kemnassus Parts  
+- Exploration Rover System  
+- FASA  
+- Far Future Technologies  
+- Flexible Docking  
+- IFI Life Support  
+- Indicator Lights  
+- Inline Ballutes  
+- Interstellar Extended  
+- KW Rocketry Rebalanced  
+- Kerbal Actuators  
+- Kerbal Planetary Base Systems  
+- Kerbal Tubes  
+- Kerbonov Kn-2 Cockpit Module  
+- Kurricane Probe  
+- L-Tech Scientific Industries  
+- LLL Extra Parts  
+- Lack Luster Labs Continued  
+- Landertron  
+- Launch Escape System  
+- Lithobrake Exploration Technologies  
+- Making History  
+- Mark IV Spaceplane System  
+- MechJeb  
+- Missing History  
+- Mk 2.5 Spaceplane Parts  
+- Modular Pods  
+- Modular Rocket Systems - LITE  
+- NRAP  
+- Near Future Aeronautics  
+- Near Future Construction  
+- Near Future Electrical  
+- Near Future Exploration  
+- Near Future Launch Vehicles  
+- Near Future Propulsion  
+- Near Future Solar  
+- Near Future Spacecraft  
+- NovaPunch Rebalanced  
+- OctoSat Continued  
+- Periapsis Motors  
+- Photon Sailor  
+- PicoPort  
+- PicoPort Shielded  
+- Planetside Exploration Technologies  
+- Prakasa Aeroworks  
+- Procedural Fairing  
+- Procedural Parts  
+- QuizTech  
+- RLA Reborn  
+- RealChute  
+- Recycled Parts FTmN Atomic Rockets  
+- Recycled Parts FTmN Improved Atomic Rockets  
+- Recycled Parts LVN Clusters  
+- Recycled Parts Mk2 Essentials  
+- Recycled Parts Mk2 Solar Batteries  
+- Recycled Parts Spare Parts  
+- Recycled parts Mk2 KIS Containers  
+- ReStock  
+- ReStock+  
+- Retractable Lifting Surface Module  
+- Retracting/Vectoring engines, Critter Crawler  
+- SXT Continued  
+- ScanSat  
+- Simple Adjustable Fairings KW Rocketry Pack  
+- Smart Parts  
+- Space Dust  
+- SpaceY  
+- SpaceY Expanded  
+- SpaceY Heavy Lifters  
+- Sterling Mods (JadeOfMaar)  
+- Stockalike Station Parts Expansion  
+- System Heat  
+- Universal Storage II Finalized  
+- VaporVent  
+- Wild Blue  
