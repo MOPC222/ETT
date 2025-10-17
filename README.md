@@ -7,23 +7,116 @@
 - New connections in Airframes branch, complex mechanical systems now require Bearings (old Nanolathing).
 - New connections in CommandModules branch, requiring more cross-research for high-end parts.
 - New Ablators-Reentry branch - intended to separate heat shields from Sterling Systems extensive heat management parts list. Probably less useful without the mod, might make a patch to enable it conditionally.
-- Changed patching order: ETT doesn't apply as FINAL anymore, so other part patches with :LAST or :FINAL directive can be loaded on top of it.
+- Changed patching order: ETT doesn't apply as FINAL anymore, so other part patches with :LAST or :FINAL directives can be loaded on top of it.
 
 ## Mod support added:  
+- Inflatable PicoPort  
+- Interkosmos  
+- KerBalloons  
+- Kerbal Powers: Naval  
 - Kerbalism (only tested with KerbalismSimplex)  
+- Kate's Greebles  
+- More Airplane Parts  
+- MoreServos  
+- OPT (WIP)  
+- OpenCockpit  
+- Procedural Wings  
 - RealBattery (upgrades correctly assigned to Electrics branch)  
 - Engine Ignitor (upgrades assigned to correct places for stock parts, mods support WIP)  
-- Taerobee  
-- OpenCockpit  
-- MoreServos  
-- Interkosmos  
-- Inflatable PicoPort  
-- Supplementary Electric Engines  
-- InternalRCS (partial, the mod is quite bloated so I only use like 3 parts from it)  
-- TarsierSpaceTech  
 - ResearchBodies  
-- KerBalloons  
-- More Airplane Parts  
+- Supplementary Electric Engines  
+- Taerobee  
+- TarsierSpaceTech  
+- Impact!  
+- Delayed Separatron (copy of the stock one, config found somewhere on KSP forums)  
+- Wrapper Tanks  
 ## Mod support rebalanced/updated:  
 - AirplanePlus  
-- SterlingSystems (partially, mainly heat management. Parts list at the time of the commit)  
+- SterlingSystems (partially, mainly heat management)  
+- Sounding Rockets  
+- Apoapsis Motors  
+- Periapsis Motors  
+- Smart Parts  
+## Mod support by Probus, passed down from his original ETT release
+- AIES  
+- Alcubierre Warp Drive  
+- B9 Aerospace Procedural Wings Fork  
+- Bavarian Aerospace: Tubes  
+- Breaking Ground  
+- CactEye-2  
+- Comfortable Landing  
+- Configurable Containers  
+- DMagic Orbital Science  
+- Dr. Kemnassus Parts  
+- Exploration Rover System  
+- FASA  
+- Far Future Technologies  
+- Flexible Docking  
+- IFI Life Support  
+- Indicator Lights  
+- Inline Ballutes  
+- Interstellar Extended  
+- KW Rocketry Rebalanced  
+- Kerbal Actuators  
+- Kerbal Planetary Base Systems  
+- Kerbal Tubes  
+- Kerbonov Kn-2 Cockpit Module  
+- Kurricane Probe  
+- L-Tech Scientific Industries  
+- LLL Extra Parts  
+- Lack Luster Labs Continued  
+- Landertron  
+- Launch Escape System  
+- Lithobrake Exploration Technologies  
+- Making History  
+- Mark IV Spaceplane System  
+- MechJeb  
+- Missing History  
+- Mk 2.5 Spaceplane Parts  
+- Modular Pods  
+- Modular Rocket Systems - LITE  
+- NRAP  
+- Near Future Aeronautics  
+- Near Future Construction  
+- Near Future Electrical  
+- Near Future Exploration  
+- Near Future Launch Vehicles  
+- Near Future Propulsion  
+- Near Future Solar  
+- Near Future Spacecraft  
+- NovaPunch Rebalanced  
+- OctoSat Continued  
+- Photon Sailor  
+- PicoPort  
+- PicoPort Shielded  
+- Planetside Exploration Technologies  
+- Prakasa Aeroworks  
+- Procedural Fairing  
+- Procedural Parts  
+- QuizTech  
+- RLA Reborn  
+- RealChute  
+- Recycled Parts FTmN Atomic Rockets  
+- Recycled Parts FTmN Improved Atomic Rockets  
+- Recycled Parts LVN Clusters  
+- Recycled Parts Mk2 Essentials  
+- Recycled Parts Mk2 Solar Batteries  
+- Recycled Parts Spare Parts  
+- Recycled parts Mk2 KIS Containers  
+- ReStock  
+- ReStock+  
+- Retractable Lifting Surface Module  
+- Retracting/Vectoring engines, Critter Crawler  
+- SXT Continued  
+- ScanSat  
+- Simple Adjustable Fairings KW Rocketry Pack  
+- Space Dust  
+- SpaceY  
+- SpaceY Expanded  
+- SpaceY Heavy Lifters  
+- Sterling Mods  
+- Stockalike Station Parts Expansion  
+- System Heat  
+- Universal Storage II Finalized  
+- VaporVent  
+- Wild Blue  
