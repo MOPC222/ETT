@@ -19,6 +19,7 @@
 - More Airplane Parts  
 - MoreServos  
 - OPT (WIP)  
+- InternalRCS (partial, the mod is quite bloated so I only use like 3 parts from it)  
 - OpenCockpit  
 - Procedural Wings  
 - RealBattery (upgrades correctly assigned to Electrics branch)  
