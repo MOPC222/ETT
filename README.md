@@ -10,34 +10,39 @@
 - Changed patching order: ETT doesn't apply as FINAL anymore, so other part patches with :LAST or :FINAL directives can be loaded on top of it.
 
 ## Mod support added:  
+- EVA Parachutes & Ejection Seats  
+- Engine Ignitor (upgrades assigned to correct places for stock parts, mods support WIP)  
+- Impact!  
 - Inflatable PicoPort  
 - Interkosmos  
+- InternalRCS (full this time)  
+- Kate's Greebles  
 - KerBalloons  
 - Kerbal Powers: Naval  
 - Kerbalism (only tested with KerbalismSimplex)  
-- Kate's Greebles  
+- Luciole  
 - More Airplane Parts  
 - MoreServos  
 - OPT (WIP)  
-- InternalRCS (partial, the mod is quite bloated so I only use like 3 parts from it)  
 - OpenCockpit  
 - Procedural Wings  
 - RealBattery (upgrades correctly assigned to Electrics branch)  
-- Engine Ignitor (upgrades assigned to correct places for stock parts, mods support WIP)  
 - ResearchBodies  
 - Supplementary Electric Engines  
+- Silly Photon Drives  
 - Taerobee  
 - TarsierSpaceTech  
-- Impact!  
-- Delayed Separatron (copy of the stock one, config found somewhere on KSP forums)  
 - Wrapper Tanks  
+- Delayed Separatron (part name "delayedRetro", config found on KSP forums, not released as a standalone mod)  
 ## Mod support rebalanced/updated:  
 - AirplanePlus  
-- SterlingSystems (partially, mainly heat management)  
-- Sounding Rockets  
 - Apoapsis Motors  
 - Periapsis Motors  
+- PicoPort  
+- PicoPort Shielded  
 - Smart Parts  
+- Sounding Rockets  
+- SterlingSystems (partially, mainly heat management)  
 ## Mod support by Probus, passed down from his original ETT release
 - AIES  
 - Alcubierre Warp Drive  
@@ -88,8 +93,6 @@
 - NovaPunch Rebalanced  
 - OctoSat Continued  
 - Photon Sailor  
-- PicoPort  
-- PicoPort Shielded  
 - Planetside Exploration Technologies  
 - Prakasa Aeroworks  
 - Procedural Fairing  

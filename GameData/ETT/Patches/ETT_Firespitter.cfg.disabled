@@ -1,0 +1,251 @@
+@TechTree:NEEDS[Firespitter]:LAST[zzzETT]
+{
+	@RDNode:HAS[#id[aviation]]
+	{
+		@Unlocks,0
+		{
+			part = FS_BiplaneCockpit
+			part = FS_BiplaneEngine
+			part = FS_BiplaneSkid
+			part = FS_BiplaneTailFuselage
+			part = FS_BiplaneWheel
+			part = FS_BiplaneWingCenter
+			part = FS_BiplaneWingMain
+			part = FS_BiplaneWingRound
+			part = FS_BiplaneWingShort
+			part = FS_BiplaneWingTip
+			part = FSairTank
+			part = FSbiPlaneAileron
+			part = FSbiPlaneElevator
+			part = FSbiPlaneRudder
+			part = FSbiPlaneSkid
+			part = FSbiPlaneTail
+			part = FSbiPlaneWheelPair
+			part = FSbiPlaneWingCenter
+			part = FSbiPlaneWingMain
+			part = FSbiPlaneWingRound
+			part = FSbiPlaneWingShort
+			part = FSbiPlaneWingTip
+			part = FSbiplaneCockpit
+			part = FSbiplaneGear
+			part = FSfighterLandingGear
+			part = FSfighterTailGear
+			part = FSjerrycan
+		}
+	}
+	@RDNode:HAS[#id[aerodynamicSystems]]
+	{
+		@Unlocks,0
+		{
+			part = FSCrewFuselage
+			part = FS_OblongToRoundAdapter
+			part = FSbomberFuselage
+			part = FSbomberFuselageTail
+			part = FSfighterCockpit
+			part = FSoblongFuselageHalf
+			part = FSoblongMultiTank
+			part = FSoblongNose
+			part = FSoblongNoseLong
+			part = FSoblongNoseRound
+			part = FSoblongTail
+			part = FSoblongToRoundAdapter
+			part = FSoblongToSmallAdapter
+		}
+	}
+	@RDNode:HAS[#id[basicRocketry]]
+	{
+		@Unlocks,0
+		{
+			part = FSoxidizerTank
+		}
+	}
+	@RDNode:HAS[#id[propellers]]
+	{
+		@Unlocks,0
+		{
+			part = FSPROpeller
+		}
+	}
+	@RDNode:HAS[#id[expAircraftEngines]]
+	{
+		@Unlocks,0
+		{
+			part = FSapacheCockpit
+			part = FScopterCockpit
+			part = FScopterRotorFenestron
+			part = FScopterRotorMain
+			part = FScopterRotorMainElectric
+			part = FScopterRotorTail
+			part = FStailBoom
+		}
+	}
+	@RDNode:HAS[#id[Buoyancy]]
+	{
+		@Unlocks,0
+		{
+			part = FSfloatEnd
+			part = FSfloatEndTail
+			part = FSfloatStraight
+			part = FSfloatStrut
+			part = fsmovecraftgadget
+		}
+	}
+	@RDNode:HAS[#id[BasicControlSurfaces]]
+	{
+		@Unlocks,0
+		{
+			part = FS_BiplaneElevator
+			part = FS_BiplaneRudder
+			part = FSbiPlaneAileron
+			part = FSbiPlaneElevator
+			part = FSbiPlaneRudder
+			part = fstrimgadget
+		}
+	}
+	@RDNode:HAS[#id[wings]]
+	{
+		@Unlocks,0
+		{
+			part = FSbomberWing
+			part = FSbomberWingExtender
+			part = FSfighterWing
+			part = FStailWingLarge
+		}
+	}
+	@RDNode:HAS[#id[intakes]]
+	{
+		@Unlocks,0
+		{
+			part = FSengineMount
+			part = FSoblongNoseIntake
+		}
+	}
+	@RDNode:HAS[#id[hydrodynamics]]
+	{
+		@Unlocks,0
+		{
+			part = FSfloatGearbay
+		}
+	}
+	@RDNode:HAS[#id[propellers2]]
+	{
+		@Unlocks,0
+		{
+			part = FSPROpellerElectric
+			part = FSnoseEngine
+			part = FSnoseEngineElectric
+			part = FSpropellerFolding
+			part = FSswampEngine
+		}
+	}
+	@RDNode:HAS[#id[propellers3]]
+	{
+		@Unlocks,0
+		{
+			part = FSlancasterEngine
+			part = FSlancasterEngineGear
+			part = FSturboProp
+		}
+	}
+	@RDNode:HAS[#id[Cargo1]]
+	{
+		@Unlocks,0
+		{
+			part = FSbombBay
+		}
+	}
+	@RDNode:HAS[#id[specializedFlightSystems]]
+	{
+		@Unlocks,0
+		{
+			part = FSbomberCockpit
+		}
+	}
+	@RDNode:HAS[#id[advancedLandingGear]]
+	{
+		@Unlocks,0
+		{
+			part = FSapacheLandingGear
+			part = FSapacheLandingGearFlip
+			part = FSbomberLandingGear
+		}
+	}
+	@RDNode:HAS[#id[generalConstruction]]
+	{
+		@Unlocks,0
+		{
+			part = FSstrutConnectorWire
+			part = FSstrutConnectorWood
+		}
+	}
+	@RDNode:HAS[#id[unmannedTech]]
+	{
+		@Unlocks,0
+		{
+			part = FSapacheNoseASAS
+			part = fsgyroscope
+		}
+	}
+	@RDNode:HAS[#id[specializedConstruction]]
+	{
+		@Unlocks,0
+		{
+			part = FSdropTank
+			part = FSdropTankMount
+		}
+	}
+	@RDNode:HAS[#id[advElectrics]]
+	{
+		@Unlocks,0
+		{
+			part = FSbattery
+		}
+	}
+	@RDNode:HAS[#id[landingTech]]
+	{
+		@Unlocks,0
+		{
+			part = FSlandingPads
+		}
+	}
+	@RDNode:HAS[#id[advancedControlSurfaces]]
+	{
+		@Unlocks,0
+		{
+			part = FSairBrake
+			part = FSfighterJetElevator
+			part = FSfighterJetRudder
+			part = FStailWing
+			part = FSwinglet
+		}
+	}
+	@RDNode:HAS[#id[electronics]]
+	{
+		@Unlocks,0
+		{
+			part = fsinfopopup
+		}
+	}
+	@RDNode:HAS[#id[stovl]]
+	{
+		@Unlocks,0
+		{
+			part = FSVTOLengine
+			part = FSVTOLengineLarge
+		}
+	}
+	@RDNode:HAS[#id[jetEngines]]
+	{
+		@Unlocks,0
+		{
+			part = FSoblongTailJet
+		}
+	}
+	@RDNode:HAS[#id[advLiftSurf]]
+	{
+		@Unlocks,0
+		{
+			part = FSfighterJetWing
+		}
+	}
+}
