@@ -1,15 +1,43 @@
 # Engineering Tech Tree
 
-### This fork is based on the ETT update 25052025 fetched from CKAN/Spacedock. The repo was forked off outdated 2016 repository in case ProbusThrax decides to update it in the future.  
-## Yonge Tech Trees Plugin is still a hard dependency.  
+### Yonge Tech Trees Plugin is still a hard dependency.  
 ## What's new?
-- Sizeable edits were made to the tree, all nodes are now aligned to the grid more strictly.
-- New connections in Airframes branch, complex mechanical systems now require Bearings (old Nanolathing).
-- New connections in CommandModules branch, requiring more cross-research for high-end parts.
-- New Ablators-Reentry branch - intended to separate heat shields from Sterling Systems extensive heat management parts list. Probably less useful without the mod, might make a patch to enable it conditionally.
-- Changed patching order: ETT doesn't apply as FINAL anymore, so other part patches with :LAST or :FINAL directives can be loaded on top of it.
+- The whole tree was reworked with stricter alignment and few new/changed branches.  
+- Changed patching order: ETT doesn't apply as FINAL anymore, so other part patches with :LAST or :FINAL directives can be loaded on top of it.  
+- I'm slowly reworking all mod support patches to ensure last version compatibility.  
 
-## Mod support added:  
+## Mods recommended for full gameplay experience with a generously filled tech tree
+#### Better starting options  
+- KerBalloons  
+- Grounded  
+- Kerbal Powers: Naval  
+- OpenCockpit  
+#### Better early rocketry
+- Sounding Rockets
+- Taerobee  
+- Luciole  
+- Apoapsis Motors  
+- Periapsis Motors  
+#### Airplanes  
+- AirplanePlus  
+- KAX  
+- More Airplane Parts  
+#### Science  
+- Interkosmos  
+- SCANsat  
+- ResearchBodies  
+- TarsierSpaceTech  
+- Impact!  
+- DMagic Orbital Science  
+#### Spaceflight  
+- NearFutureTechnologies  
+- Stockalike Station Parts Expansion  
+#### High-tech / end-game  
+- Supplementary Electric Engines  
+- Silly Photon Drives  
+- Far Future Technologies  
+
+## Full updated mod support:  
 - EVA Parachutes & Ejection Seats  
 - Engine Ignitor (upgrades assigned to correct places for stock parts, mods support WIP)  
 - Impact!  
@@ -34,7 +62,7 @@
 - TarsierSpaceTech  
 - Wrapper Tanks  
 - Delayed Separatron (part name "delayedRetro", config found on KSP forums, not released as a standalone mod)  
-## Mod support rebalanced/updated:  
+## Mod support rebalanced/updated compared to the original ETT:  
 - AirplanePlus  
 - Apoapsis Motors  
 - Periapsis Motors  
@@ -42,21 +70,32 @@
 - PicoPort Shielded  
 - Smart Parts  
 - Sounding Rockets  
-- SterlingSystems (partially, mainly heat management)  
-## Mod support by Probus, passed down from his original ETT release
+- SterlingSystems (WIP)  
+- Near Future Construction  
+- Near Future Electrical  
+- Near Future Exploration  
+- Near Future Launch Vehicles  
+- Near Future Propulsion  
+- Near Future Solar  
+- Near Future Spacecraft  
+- ReStock  
+- ReStock+  
+- ScanSat  
+- Stockalike Station Parts Expansion  
+- Far Future Technologies  
+## Mod support by Probus. Was passed down from the original ETT release until commit #8e8c05a, now dropped for rework
 - AIES  
 - Alcubierre Warp Drive  
 - B9 Aerospace Procedural Wings Fork  
 - Bavarian Aerospace: Tubes  
-- Breaking Ground  
 - CactEye-2  
 - Comfortable Landing  
 - Configurable Containers  
 - DMagic Orbital Science  
 - Dr. Kemnassus Parts  
+- Near Future Aeronautics  
 - Exploration Rover System  
 - FASA  
-- Far Future Technologies  
 - Flexible Docking  
 - IFI Life Support  
 - Indicator Lights  
@@ -74,7 +113,6 @@
 - Landertron  
 - Launch Escape System  
 - Lithobrake Exploration Technologies  
-- Making History  
 - Mark IV Spaceplane System  
 - MechJeb  
 - Missing History  
@@ -82,14 +120,6 @@
 - Modular Pods  
 - Modular Rocket Systems - LITE  
 - NRAP  
-- Near Future Aeronautics  
-- Near Future Construction  
-- Near Future Electrical  
-- Near Future Exploration  
-- Near Future Launch Vehicles  
-- Near Future Propulsion  
-- Near Future Solar  
-- Near Future Spacecraft  
 - NovaPunch Rebalanced  
 - OctoSat Continued  
 - Photon Sailor  
@@ -107,19 +137,15 @@
 - Recycled Parts Mk2 Solar Batteries  
 - Recycled Parts Spare Parts  
 - Recycled parts Mk2 KIS Containers  
-- ReStock  
-- ReStock+  
 - Retractable Lifting Surface Module  
 - Retracting/Vectoring engines, Critter Crawler  
 - SXT Continued  
-- ScanSat  
 - Simple Adjustable Fairings KW Rocketry Pack  
 - Space Dust  
 - SpaceY  
 - SpaceY Expanded  
 - SpaceY Heavy Lifters  
 - Sterling Mods  
-- Stockalike Station Parts Expansion  
 - System Heat  
 - Universal Storage II Finalized  
 - VaporVent  
