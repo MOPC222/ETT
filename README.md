@@ -18,10 +18,13 @@
 - Luciole  
 - Apoapsis Motors  
 - Periapsis Motors  
-#### Airplanes  
+#### Aviation  
 - AirplanePlus  
 - KAX  
 - More Airplane Parts  
+#### Spaceflight  
+- NearFutureTechnologies  
+- Stockalike Station Parts Expansion  
 #### Science  
 - Interkosmos  
 - SCANsat  
@@ -29,13 +32,11 @@
 - TarsierSpaceTech  
 - Impact!  
 - DMagic Orbital Science  
-#### Spaceflight  
-- NearFutureTechnologies  
-- Stockalike Station Parts Expansion  
 #### High-tech / end-game  
 - Supplementary Electric Engines  
 - Silly Photon Drives  
 - Far Future Technologies  
+- SterlingTech  
 
 ## Full updated mod support:  
 - EVA Parachutes & Ejection Seats  
@@ -62,15 +63,6 @@
 - TarsierSpaceTech  
 - Wrapper Tanks  
 - Delayed Separatron (part name "delayedRetro", config found on KSP forums, not released as a standalone mod)  
-## Mod support rebalanced/updated compared to the original ETT:  
-- AirplanePlus  
-- Apoapsis Motors  
-- Periapsis Motors  
-- PicoPort  
-- PicoPort Shielded  
-- Smart Parts  
-- Sounding Rockets  
-- SterlingSystems (WIP)  
 - Near Future Construction  
 - Near Future Electrical  
 - Near Future Exploration  
@@ -83,7 +75,17 @@
 - ScanSat  
 - Stockalike Station Parts Expansion  
 - Far Future Technologies  
-## Mod support by Probus. Was passed down from the original ETT release until commit #8e8c05a, now dropped for rework
+- Apoapsis Motors  
+- Periapsis Motors  
+- PicoPort  
+- PicoPort Shielded  
+- AirplanePlus  
+- Kerbonov  
+- QuizTech Aero Pack Continued  
+- Smart Parts  
+- Sounding Rockets  
+- SterlingSystems (WIP)  
+## Mod support by Probus. Was being passed down from the original ETT release until commit #8e8c05a, now dropped for rework
 - AIES  
 - Alcubierre Warp Drive  
 - B9 Aerospace Procedural Wings Fork  
@@ -105,7 +107,6 @@
 - Kerbal Actuators  
 - Kerbal Planetary Base Systems  
 - Kerbal Tubes  
-- Kerbonov Kn-2 Cockpit Module  
 - Kurricane Probe  
 - L-Tech Scientific Industries  
 - LLL Extra Parts  
@@ -127,7 +128,6 @@
 - Prakasa Aeroworks  
 - Procedural Fairing  
 - Procedural Parts  
-- QuizTech  
 - RLA Reborn  
 - RealChute  
 - Recycled Parts FTmN Atomic Rockets  
