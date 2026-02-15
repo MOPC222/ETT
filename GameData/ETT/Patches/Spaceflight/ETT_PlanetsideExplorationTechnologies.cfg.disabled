@@ -1,0 +1,223 @@
+//
+// Planetside Exploration Technologies
+//
+@PART[Benjee10_MMSEV_baseTurbineBoomMount|Benjee10_MMSEV_baseTurbineBoom]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[Benjee10_base_HDU_base]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = advConstruction
+}
+@PART[Benjee10_MMSEV_baseTurbineMotor]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[Benjee10_MMSEV_grapple]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[Benjee10_MMSEV_wheelMount]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[Benjee10_MMSEV_baseLifter]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[Benjee10_MMSEV_base_platform|Benjee10_MMSEV_baseRailings|Benjee10_MMSEV_baseMount1-875]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[Benjee10_MMSEV_baseDockLowProfile]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}
+@PART[]:NEEDS[Benjee10_MMSEV]
+{
+  @TechRequired = 
+}

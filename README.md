@@ -1,12 +1,8 @@
 # Engineering Tech Tree
 
-### Yonge Tech Trees Plugin is still a hard dependency.  
-## What's new?
-- The whole tree was reworked with stricter alignment and few new/changed branches.  
-- Changed patching order: ETT doesn't apply as FINAL anymore, so other part patches with :LAST or :FINAL directives can be loaded on top of it.  
-- I'm slowly reworking all mod support patches to ensure last version compatibility.  
+### Yonge Tech Trees Plugin is no more a dependency, the tech tree has been rewritten for stock system.   
 
-## Mods recommended for full gameplay experience with a generously filled tech tree
+## Mods recommended for full experience with a generously filled tech tree
 #### Better starting options  
 - KerBalloons  
 - Grounded  
@@ -52,6 +48,7 @@
 - Luciole  
 - More Airplane Parts  
 - MoreServos  
+- Mk2 Lobes  
 - OPT (WIP)  
 - OpenCockpit  
 - Procedural Wings  
