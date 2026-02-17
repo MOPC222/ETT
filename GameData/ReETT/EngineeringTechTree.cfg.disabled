@@ -1,6 +1,7 @@
-@TechTree
+TechTree
 {
-	!RDNode,* {}
+	id = TEDGeneratedTree
+	label = TED Generated Tree
 	RDNode
 	{
 		id = start
@@ -466,17 +467,17 @@
 		title = Ullage Motors
 		description = 
 		cost = 10
-		pos = -1660,640,-5
+		pos = -1100,480,-5
 		icon = Squad/PartList/SimpleIcons/fuels_solidfuel
-		anyToUnlock = True
+		anyToUnlock = False
 		hideEmpty = True
 		hideIfNoBranchParts = False
 		scale = 0.5
 		Parent
 		{
 			parentID = solidFuelEngines
-			lineFrom = LEFT
-			lineTo = RIGHT
+			lineFrom = RIGHT
+			lineTo = LEFT
 		}
 	}
 	RDNode
@@ -526,7 +527,7 @@
 		title = Aerodynamics
 		description = 
 		cost = 5
-		pos = -1300,1240,-9
+		pos = -1300,1160,-9
 		icon = ETT/Icons/airplane
 		anyToUnlock = False
 		hideEmpty = True
@@ -543,7 +544,7 @@
 	{
 		id = precisionPropulsion
 		nodeName = precisionPropulsion
-		title = General Rocketry (1.25m)
+		title = General Airframes (1.25m)
 		description = 
 		cost = 45
 		pos = -1000,1520,-13
@@ -776,7 +777,7 @@
 		title = Gigantic Fairings
 		description = 
 		cost = 90
-		pos = -800,1480,-14
+		pos = -600,1480,-14
 		icon = Squad/PartList/SimpleIcons/custom_built_fairing
 		anyToUnlock = False
 		hideEmpty = True
@@ -808,7 +809,7 @@
 		title = Exotic Alloys
 		description = 
 		cost = 150
-		pos = -700,1440,-13
+		pos = -600,1440,-13
 		icon = ETT/Icons/CTT_Icons/ctt_icon_exoticAlloys
 		anyToUnlock = False
 		hideEmpty = True
@@ -925,7 +926,7 @@
 	{
 		id = basicRocketry
 		nodeName = basicRocketry
-		title = Basic Rocketry
+		title = Basic Airrames
 		description = 
 		cost = 30
 		pos = -1100,1520,-18
@@ -948,7 +949,7 @@
 		title = Solid Fuel Engines
 		description = 
 		cost = 15
-		pos = -1550,680,-15
+		pos = -1200,600,-15
 		icon = RDicon_rocketry-basic
 		anyToUnlock = False
 		hideEmpty = True
@@ -957,8 +958,8 @@
 		Parent
 		{
 			parentID = soundingRockets
-			lineFrom = LEFT
-			lineTo = RIGHT
+			lineFrom = RIGHT
+			lineTo = LEFT
 		}
 	}
 	RDNode
@@ -1086,7 +1087,7 @@
 		title = Propellers
 		description = 
 		cost = 10
-		pos = -1100,880,-8
+		pos = -1200,880,-8
 		icon = ETT/Icons/Prop_Plane2
 		anyToUnlock = False
 		hideEmpty = True
@@ -1548,7 +1549,7 @@
 		title = Advanced Construction
 		description = 
 		cost = 90
-		pos = -900,1440,-14
+		pos = -800,1440,-14
 		icon = RDicon_construction-advanced
 		anyToUnlock = False
 		hideEmpty = True
@@ -1588,7 +1589,7 @@
 		title = Large Fairings
 		description = 
 		cost = 90
-		pos = -900,1480,-13
+		pos = -800,1480,-13
 		icon = Squad/PartList/SimpleIcons/custom_built_fairing
 		anyToUnlock = False
 		hideEmpty = True
@@ -1711,7 +1712,7 @@
 	{
 		id = advancedRocketry25
 		nodeName = advancedRocketry25
-		title = Advanced Rocketry (2.5m)
+		title = Advanced Airframes (2.5m)
 		description = 
 		cost = 90
 		pos = -800,1600,-9
@@ -1880,7 +1881,7 @@
 		title = Buoyancy
 		description = 
 		cost = 5
-		pos = -1100,1400,-1
+		pos = -1200,1400,-1
 		icon = ETT/Icons/waves-icon
 		anyToUnlock = False
 		hideEmpty = True
@@ -1969,7 +1970,7 @@
 	{
 		id = generalRocketry
 		nodeName = generalRocketry
-		title = General Rocketry (2.5m)
+		title = General Airframes (2.5m)
 		description = 
 		cost = 90
 		pos = -900,1600,-7
@@ -2170,7 +2171,7 @@
 		title = Heavy Solid Rocket Boosters
 		description = 
 		cost = 45
-		pos = -1660,600,-21
+		pos = -1100,520,-21
 		icon = RDicon_rocketry-general
 		anyToUnlock = False
 		hideEmpty = True
@@ -2179,8 +2180,8 @@
 		Parent
 		{
 			parentID = solidFuelEngines
-			lineFrom = LEFT
-			lineTo = RIGHT
+			lineFrom = RIGHT
+			lineTo = LEFT
 		}
 	}
 	RDNode
@@ -2331,7 +2332,7 @@
 	{
 		id = advRocketry
 		nodeName = advRocketry
-		title = General Rocketry (3.75m)
+		title = General Airframes (3.75m)
 		description = 
 		cost = 90
 		pos = -800,1640,-18
@@ -2539,7 +2540,7 @@
 	{
 		id = heavierRocketry375
 		nodeName = heavierRocketry375
-		title = Heavier Rocketry (3.75m)
+		title = Heavier Airframes (3.75m)
 		description = 
 		cost = 90
 		pos = -700,1640,-17
@@ -2562,7 +2563,7 @@
 		title = Heavier Solid Rocket Boosters
 		description = 
 		cost = 90
-		pos = -1855,600,-8
+		pos = -1000,440,-8
 		icon = RDicon_rocketry-heavier
 		anyToUnlock = False
 		hideEmpty = True
@@ -2571,8 +2572,8 @@
 		Parent
 		{
 			parentID = heavySRB
-			lineFrom = LEFT
-			lineTo = RIGHT
+			lineFrom = RIGHT
+			lineTo = LEFT
 		}
 	}
 	RDNode
@@ -2884,7 +2885,7 @@
 		title = Plasma Propulsion
 		description = 
 		cost = 400
-		pos = -2450,1280,-18
+		pos = -2450,1320,-18
 		icon = ETT/Icons/CTT_Icons/ctt_icon_advancedPlasmaPropulsion
 		anyToUnlock = False
 		hideEmpty = True
@@ -2930,7 +2931,7 @@
 		title = Specialized Plasma Generation
 		description = 
 		cost = 650
-		pos = -2550,1280,-18
+		pos = -2550,1320,-18
 		icon = ETT/Icons/CTT_Icons/ctt_icon_plasmaPropulsion
 		anyToUnlock = False
 		hideEmpty = True
@@ -2990,7 +2991,7 @@
 		title = Very Heavy Solid Rockets
 		description = 
 		cost = 150
-		pos = -2050,600,-15
+		pos = -900,440,-15
 		icon = RDicon_rocketry-veryHeavy
 		anyToUnlock = False
 		hideEmpty = True
@@ -2999,8 +3000,8 @@
 		Parent
 		{
 			parentID = heavierSRB
-			lineFrom = LEFT
-			lineTo = RIGHT
+			lineFrom = RIGHT
+			lineTo = LEFT
 		}
 	}
 	RDNode
@@ -3056,7 +3057,7 @@
 		title = Advanced Electromagnetic Systems
 		description = 
 		cost = 1000
-		pos = -2750,1280,-19
+		pos = -2750,1320,-19
 		icon = ETT/Icons/CTT_Icons/ctt_icon_specializedPlasmaPropulsion
 		anyToUnlock = False
 		hideEmpty = True
@@ -3125,7 +3126,7 @@
 	{
 		id = heavyRocketry
 		nodeName = heavyRocketry
-		title = Heavy Rocketry (5m)
+		title = Heavy Airframes (5m)
 		description = 
 		cost = 150
 		pos = -700,1680,-13
@@ -3145,7 +3146,7 @@
 	{
 		id = massiveRocketry
 		nodeName = massiveRocketry
-		title = Massive Rocketry (5m)
+		title = Massive Airframes (5m)
 		description = 
 		cost = 150
 		pos = -600,1680,-17
@@ -3157,12 +3158,6 @@
 		Parent
 		{
 			parentID = heavyRocketry
-			lineFrom = RIGHT
-			lineTo = LEFT
-		}
-		Parent
-		{
-			parentID = exoticAlloys
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
@@ -3237,7 +3232,7 @@
 	{
 		id = heavierRocketry
 		nodeName = heavierRocketry
-		title = Heavier Rocketry (7.75m)
+		title = Heavier Airframes (7.75m)
 		description = 
 		cost = 250
 		pos = -600,1720,-10
@@ -3252,18 +3247,12 @@
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-		Parent
-		{
-			parentID = exoticAlloys
-			lineFrom = RIGHT
-			lineTo = LEFT
-		}
 	}
 	RDNode
 	{
 		id = veryHeavyRocketry
 		nodeName = veryHeavyRocketry
-		title = Very Heavy Rocketry (7.75m)
+		title = Very Heavy Airframes (7.75m)
 		description = 
 		cost = 250
 		pos = -500,1720,-10
@@ -3278,12 +3267,18 @@
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
+		Parent
+		{
+			parentID = exoticAlloys
+			lineFrom = RIGHT
+			lineTo = LEFT
+		}
 	}
 	RDNode
 	{
 		id = giganticRocketry
 		nodeName = giganticRocketry
-		title = Gigantic Rocketry (10m)
+		title = Gigantic Airframes (10m)
 		description = 
 		cost = 750
 		pos = -500,1760,-11
@@ -3298,12 +3293,18 @@
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
+		Parent
+		{
+			parentID = exoticAlloys
+			lineFrom = RIGHT
+			lineTo = LEFT
+		}
 	}
 	RDNode
 	{
 		id = colossalRocketry
 		nodeName = colossalRocketry
-		title = Colossal Rocketry (>10m)
+		title = Colossal Airframes (>10m)
 		description = 
 		cost = 1000
 		pos = -300,1765,-11
@@ -3510,7 +3511,7 @@
 		title = Colossal Solid Rockets
 		description = 
 		cost = 250
-		pos = -2150,600,-1
+		pos = -800,440,-1
 		icon = RDicon_rocketry-veryHeavy
 		anyToUnlock = False
 		hideEmpty = True
@@ -3519,8 +3520,8 @@
 		Parent
 		{
 			parentID = veryHeavySolids
-			lineFrom = LEFT
-			lineTo = RIGHT
+			lineFrom = RIGHT
+			lineTo = LEFT
 		}
 	}
 	RDNode
@@ -3760,12 +3761,6 @@
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-		Parent
-		{
-			parentID = propellers
-			lineFrom = RIGHT
-			lineTo = LEFT
-		}
 	}
 	RDNode
 	{
@@ -3774,7 +3769,7 @@
 		title = Advanced Hydrodynamics
 		description = 
 		cost = 90
-		pos = -900,1400,-1
+		pos = -800,1400,-1
 		icon = ETT/Icons/waves-icon
 		anyToUnlock = False
 		hideEmpty = True
@@ -3866,7 +3861,7 @@
 		title = Advanced Ullage Motors
 		description = 
 		cost = 30
-		pos = -1855,640,-1
+		pos = -1000,400,-1
 		icon = Squad/PartList/SimpleIcons/fuels_solidfuel
 		anyToUnlock = False
 		hideEmpty = True
@@ -3875,8 +3870,8 @@
 		Parent
 		{
 			parentID = ullageMotors
-			lineFrom = LEFT
-			lineTo = RIGHT
+			lineFrom = RIGHT
+			lineTo = LEFT
 		}
 	}
 	RDNode
@@ -4169,7 +4164,7 @@
 	{
 		id = generalRocketry1875
 		nodeName = generalRocketry1875
-		title = General Rocketry (1.875m)
+		title = General Airframes (1.875m)
 		description = 
 		cost = 45
 		pos = -1000,1560,-1
@@ -4189,7 +4184,7 @@
 	{
 		id = advancedRocketry1875
 		nodeName = advancedRocketry1875
-		title = Advanced Rocketry (1.875m)
+		title = Advanced Airframes (1.875m)
 		description = 
 		cost = 90
 		pos = -900,1560,-1
@@ -4293,12 +4288,6 @@
 		Parent
 		{
 			parentID = advRocketEngines
-			lineFrom = RIGHT
-			lineTo = LEFT
-		}
-		Parent
-		{
-			parentID = multiFunctionLFO
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
@@ -4476,7 +4465,7 @@
 		title = Plasma Propulsion
 		description = 
 		cost = 700
-		pos = -2650,1320,-1
+		pos = -2650,1280,-1
 		icon = ETT/Icons/KSPI_Icons/STTP_plasmaPropulsion
 		anyToUnlock = False
 		hideEmpty = True
@@ -4496,7 +4485,7 @@
 		title = Advanced Plasma Propulsion
 		description = 
 		cost = 1000
-		pos = -2750,1320,-1
+		pos = -2750,1280,-1
 		icon = ETT/Icons/KSPI_Icons/SpecializedFusionRockets
 		anyToUnlock = False
 		hideEmpty = True
@@ -4516,7 +4505,7 @@
 		title = Pulsed Inductive Propulsion
 		description = 
 		cost = 400
-		pos = -2450,1320,-1
+		pos = -2450,1280,-1
 		icon = ETT/Icons/KSPI_Icons/specializedPhotovoltaics
 		anyToUnlock = False
 		hideEmpty = True
@@ -4536,7 +4525,7 @@
 		title = Gigantic Solid Boosters
 		description = 
 		cost = 750
-		pos = -2450,525,-1
+		pos = -700,440,-1
 		icon = RDicon_rocketry-veryHeavy
 		anyToUnlock = False
 		hideEmpty = True
@@ -4545,8 +4534,8 @@
 		Parent
 		{
 			parentID = colossalSRBs
-			lineFrom = LEFT
-			lineTo = RIGHT
+			lineFrom = RIGHT
+			lineTo = LEFT
 		}
 	}
 	RDNode
@@ -4714,7 +4703,7 @@
 		title = Sounding Rockets
 		description = 
 		cost = 15
-		pos = -1375,680,-1
+		pos = -1300,680,-1
 		icon = ETT/Icons/Military_Missile1
 		anyToUnlock = False
 		hideEmpty = True
@@ -4894,7 +4883,7 @@
 		title = Photon Drives
 		description = 
 		cost = 1500
-		pos = -2750,1240,-1
+		pos = -2850,1240,-1
 		icon = ETT/Icons/CTT_Icons/ctt_icon_specializedPlasmaPropulsion
 		anyToUnlock = False
 		hideEmpty = True
@@ -4908,7 +4897,7 @@
 		}
 		Parent
 		{
-			parentID = specializedPlasmaGeneration
+			parentID = vasimr
 			lineFrom = LEFT
 			lineTo = RIGHT
 		}
@@ -4964,7 +4953,7 @@
 		icon = RDicon_generic
 		anyToUnlock = False
 		hideEmpty = True
-		hideIfNoBranchParts = False
+		hideIfNoBranchParts = True
 		scale = 0.5
 		Parent
 		{
